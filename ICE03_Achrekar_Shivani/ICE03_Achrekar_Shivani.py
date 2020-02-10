@@ -11,9 +11,7 @@ from scipy.stats.stats import pearsonr
 
 #Regression output
 from sklearn.linear_model import LinearRegression
-
 import statsmodels.formula.api as smf
-
 from statsmodels.graphics.regressionplots import *
 
 
